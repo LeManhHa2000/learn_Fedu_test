@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Nguyen Van A",
+        "tel": "010101011",
+        "Permission": 1
+    },
+    {
+        "id": 2,
+        "name": "Le Thi B",
+        "tel": "020202202",
+        "Permission": 2
+    },
+    {
+        "id": 3,
+        "name": "Tran Van C",
+        "tel": "030303033",
+        "Permission": 3
+    },
+    {
+        "id": 4,
+        "name": "Tong Van D",
+        "tel": "0404040404",
+        "Permission": 1
+    },
+    {
+        "id": 5,
+        "name": "Dang Thi E",
+        "tel": "050505505",
+        "Permission": 1
+    }
+]
